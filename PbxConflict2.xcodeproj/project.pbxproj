@@ -51,7 +51,9 @@
 		EF9C0F8A2CB4D8C800303BD1 /* PbxConflict2 */ = {
 			isa = PBXGroup;
 			children = (
+
 				EF9C0F9A2CB4D94800303BD1 /* bran */,
+
 				EF9C0F912CB4D8C900303BD1 /* Preview Content */,
 			);
 			path = PbxConflict2;
@@ -65,14 +67,18 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+
 		EF9C0F9A2CB4D94800303BD1 /* bran */ = {
+
 			isa = PBXGroup;
 			children = (
 				EF9C0F8B2CB4D8C800303BD1 /* PbxConflict2App.swift */,
 				EF9C0F8D2CB4D8C800303BD1 /* ContentView.swift */,
 				EF9C0F8F2CB4D8C900303BD1 /* Assets.xcassets */,
 			);
+
 			path = bran;
+
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
